@@ -1,0 +1,142 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Lato', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: lightgreen;
+}
+
+h1 {
+    text-align: center;
+    margin: 20px;
+    font-size: 40px;
+}
+
+.highlight {
+    background-color: yellow;
+    padding: 5px;
+}
+
+h2 {
+    text-align: center;
+    margin: 20px;
+    text-transform: uppercase;
+    font-size: 28px;
+    text-decoration: underline;
+}
+
+p {
+    display: inline-block;
+    text-align: center;
+    margin-left: 100px;
+    position: relative;
+    left: 132px;
+}
+
+.byzantine {
+    background-color: #3457D5;
+    color: white;
+    padding: 25px;
+}
+
+.college {
+    background-color: #002244;
+    color: white;
+    padding: 25px;
+}
+
+.grey {
+    background-color: #C0C0C0;
+    padding: 25px;
+}
+
+.off-white {
+    background-color: #f5f5f5;
+    padding: 25px;
+}
+
+.horizontal {
+    border-bottom: 2px dotted black;
+    margin: 20px 0;
+}
+
+ul {
+    margin: 20px 338px;
+    width: 670px;
+    font-size: 20px;
+}
+
+li {
+    margin-bottom: 20px;
+    list-style-type: square;
+}
+
+.first, .second, .third {
+    font-family: 'PT serif', serif;
+}
+
+.lato, .pt-serif {
+    font-size: 22px;
+    text-decoration: underline;
+}
+
+.second {
+    font-style: italic;
+}
+
+.third {
+    font-weight: 700;
+    font-style: italic;
+}
+
+.light {
+    font-weight: 300;
+}
+.light-italic {
+    font-weight: 300;
+    font-style: italic;
+}
+.regluar {
+    font-weight: 400;
+}
+.bold {
+    font-weight: 700;
+}
+
+.disclaimer {
+    font-size: 20px;
+    width: 450px;
+    text-align: center;
+    line-height: 2;
+    position: relative;
+    left: 335px;
+    margin-bottom: 20px;
+}
+
+.heading {
+    font-size: 40px;
+    text-decoration: underline;
+    background-color: yellow;
+    padding: 5px;
+    font-family: 'PT Serif', serif;
+}
+
+.subheading {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.paragraph {
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+.list {
+    font-size: 20px;
+}
+
+.cambiar {
+    width: 720px;
+    position: relative;
+    left: 210px;
+}
